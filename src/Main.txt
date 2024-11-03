@@ -1,0 +1,1 @@
+Va gérer l'ordre des programmes qui s'exécutent ainsi que leur activité, peut-être en Python, C++ ou autre
